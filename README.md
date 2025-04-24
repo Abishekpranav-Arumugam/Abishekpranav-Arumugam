@@ -54,11 +54,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abishekpranav-arumugam&show_icons=true&locale=en&theme=react" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekpranav-arumugam&theme=react" alt="GitHub Streak" />
-</p>
+![Abishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abishekpranav-Arumugam&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Abishekpranav-Arumugam&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abishekpranav-Arumugam&theme=tokyonight)
+
 
 ---
 
