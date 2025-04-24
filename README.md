@@ -44,8 +44,8 @@
   <a href="https://leetcode.com/abishekpranav2004/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/>
   </a>
-   <a href="portfolio-psi-murex-70.vercel.app" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F2024644%2Flogin_user_avatar_person_users_profile_icon&psig=AOvVaw1_GNi0uqzRM5eJcnfLUdWR&ust=1745603954440000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDmyNGf8YwDFQAAAAAdAAAAABAE" alt="Portfolio" width="30" height="30"/>
+  <a href="https://portfolio-psi-murex-70.vercel.app" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" width="30" height="30"/>
   </a>
 </p>
 
