@@ -178,9 +178,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Abishekpranav-Arumugam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-<img src="https://www.shutterstock.com/image-vector/single-yellow-line-on-black-260nw-2371777493.jpg" height="5" width="100%">
-
-
+[View animated line in action](https://abishekpranav-arumugam.github.io/)
 
 ### 🧰 Languages & Tools
 
