@@ -177,7 +177,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abishekpranav-Arumugam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" height="5" width="100%">
+
+
+<img src="https://media1.tenor.com/m/rC1vAt-kMCoAAAAd/line-neon.gif
+" height="5" width="100%">
+
+
 
 ### 🧰 Languages & Tools
 
