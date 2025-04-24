@@ -31,24 +31,24 @@
 
 ### 🌐 Connect with me
 
-<p align="left">
+<div align="center">
+    <a href="https://portfolio-psi-murex-70.vercel.app" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" width="30" height="30"/>
+  </a>
   <a href="https://linkedin.com/in/abishek-pranav-s-a-110698242" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="https://www.codechef.com/users/abishek_44" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30" height="30"/>
+    <a href="https://leetcode.com/abishekpranav2004/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/>
   </a>
   <a href="https://www.hackerrank.com/abishekpranav202" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" height="30"/>
   </a>
-  <a href="https://leetcode.com/abishekpranav2004/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/>
+    <a href="https://www.codechef.com/users/abishek_44" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30" height="30"/>
   </a>
-  <a href="https://portfolio-psi-murex-70.vercel.app" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" width="30" height="30"/>
-  </a>
-</p>
 
+</div>
 
 ---
 
