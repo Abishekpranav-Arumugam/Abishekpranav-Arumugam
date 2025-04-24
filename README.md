@@ -56,7 +56,8 @@
 
 ![Abishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abishekpranav-Arumugam&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abishekpranav-Arumugam&theme=dark&card_width=496&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abishekpranav-Arumugam&theme=tokyonight&card_width=500)](https://git.io/streak-stats)
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abishekpranav-Arumugam&theme=tokyonight)
 
