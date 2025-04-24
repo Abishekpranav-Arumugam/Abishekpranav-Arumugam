@@ -174,12 +174,12 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Abishekpranav-Arumugam&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 ### 🧰 Languages & Tools
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abishekpranav-Arumugam&layout=compact&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Abishekpranav-Arumugam&limit=5&theme=dark&combine_all_yearly_contributions=true)
