@@ -44,8 +44,8 @@
   <a href="https://leetcode.com/abishekpranav2004/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/>
   </a>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio" width="30" height="30"/>
+   <a href="portfolio-psi-murex-70.vercel.app" target="_blank">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F2024644%2Flogin_user_avatar_person_users_profile_icon&psig=AOvVaw1_GNi0uqzRM5eJcnfLUdWR&ust=1745603954440000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDmyNGf8YwDFQAAAAAdAAAAABAE" alt="Portfolio" width="30" height="30"/>
   </a>
 </p>
 
@@ -61,6 +61,5 @@
 ![Abishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abishekpranav-Arumugam&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abishekpranav-Arumugam&theme=tokyonight&card_width=500)](https://git.io/streak-stats)
-
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abishekpranav-Arumugam&theme=tokyonight)
