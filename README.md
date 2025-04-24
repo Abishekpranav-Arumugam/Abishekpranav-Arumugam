@@ -66,5 +66,5 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abishekpranav-arumugam&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abishekpranav-Arumugam&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
