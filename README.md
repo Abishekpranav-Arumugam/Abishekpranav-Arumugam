@@ -179,8 +179,7 @@
 
 
 
-<img src="https://media1.tenor.com/m/rC1vAt-kMCoAAAAd/line-neon.gif
-" height="5" width="100%">
+<img src="https://media1.tenor.com/m/rC1vAt-kMCoAAAAd/line-neon.gif" height="5" width="100%">
 
 
 
