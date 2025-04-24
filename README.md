@@ -175,10 +175,10 @@
 ---
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=Abishekpranav-Arumugam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-[View animated line in action]( https://abishekpranav-arumugam.github.io/Abishekpranav-Arumugam/)
+===
 
 ### 🧰 Languages & Tools
 
